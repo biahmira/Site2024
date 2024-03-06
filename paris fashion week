@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="ICONE.ico" type="Aula-03/ICONE"
+    <title></title>
+</head>
+<body>
+    <h1> PARIS FASHION WEEK</h1>
+    
+    <p> Aqui estarei apresentando oque é a paris fashion week e suas tendencias para 2024</p>
+    
+    <img src="tendencias-paris-fashion-week-4.jpgp" alt="tendencias paris fashion week">
+    
+    
+        <li>Pretinho nada básico</li>
+        <a href="pretinho nada básico.html" target="_blank">looks pretos e bem exagerados estarão em alta</a>
+    
+        <li>Looks desconstruídos</li>
+        <a href="looks descontruidos.html" target="_blank">aquela combinação que muitos acham nada com nada, estará com tudo em 2024</a>
+    
+        <li>Cargo da cabeça aos pés</li>
+        <a href="cargo.html" target="_blank">a tendência cargo voltará com mais força ainda</a>
+        
+        <li>Franjas</li>
+        <a href="franjas.html" target="_blank">as polêmicas franjas também estão de volta esse ano, e algumas celebridas já começaram a usá-las</a>
+        
+        <li>Mob Wife</li>
+        <a href="mob wife.html" target="_blank">é uma tendência que tem aparecido bastante nas redes socias, sendo bem aclamada pelos amantes de maquiagem</a>
+        
+    </ol>
+    <h2> MEU PERFIL NO GITHUB</h2>
+    <a href="https://github.com/biahmira" target="_blank">Acesse o meu perfil GitHub</a>
+
+    <h2> PARA MAIS INFORMAÇÕES SOBRE A FASHION WEEK</h2>
+    <a href="https://stealthelook.com.br/essas-sao-as-8-tendencias-do-verao-2024-de-acordo-com-a-paris-fashion-week/" target="_blank"  >
+        Veja aqui mais detalhes sobre as tendências.
+    </a>
+    
+</body>
+</html>
