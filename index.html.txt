@@ -14,7 +14,7 @@
     <img src="tendencias-paris-fashion-week-4.jpgp" alt="tendencias paris fashion week">
     
     
-        <li>Segunda-feira</li>
+        <li>Pretinho nada básico</li>
         <a href="segunda.html" target="_blank">Horário de segunda-feira dia 26/02</a>
     
         <li>Terça-feira</li>
