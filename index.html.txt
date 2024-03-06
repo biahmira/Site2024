@@ -30,12 +30,12 @@
         <a href="mob wife.html" target="_blank">é uma tendência que tem aparecido bastante nas redes socias, sendo bem aclamada pelos amantes de maquiagem</a>
         
     </ol>
-    <h2> PARA VER TODOS OS ARQUIVOS</h2>
-    <a href="https://github.com/rogeriodfreis/HTML-CSS" target="_blank">Acesse o GitHub para pegar os exemplos feitos</a>
+    <h2> MEU PERFIL NO GITHUB</h2>
+    <a href="https://github.com/biahmira" target="_blank">Acesse o meu perfil GitHub</a>
 
-    <h2> PARA BAIXAR ESSE CONTEUDO EM PDF</h2>
-    <a href="https://github.com/rogeriodfreis/HTML-CSS/blob/main/COINI.pdf" target="_blank"  download="COINI.pdf" type="aplication/pdf">
-        Baixe aqui seu PDF dos principais comandos.
+    <h2> PARA MAIS INFORMAÇÕES SOBRE A FASHION WEEK</h2>
+    <a href="https://stealthelook.com.br/essas-sao-as-8-tendencias-do-verao-2024-de-acordo-com-a-paris-fashion-week/" target="_blank"  >
+        Veja aqui mais detalhes sobre as tendências.
     </a>
     
 </body>
