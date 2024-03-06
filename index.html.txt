@@ -9,9 +9,9 @@
 <body>
     <h1> PARIS FASHION WEEK</h1>
     
-    <p> Aqui estarei apresentando oque é a paris fashion week e seus principais estilistas</p>
+    <p> Aqui estarei apresentando oque é a paris fashion week e suas tendencias para 2024</p>
     
-    <img src="bara01.png" alt="logo do barão">
+    <img src="tendencias-paris-fashion-week-4.jpgp" alt="tendencias paris fashion week">
     
     
         <li>Segunda-feira</li>
