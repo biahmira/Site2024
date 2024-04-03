@@ -1,22 +1,25 @@
-@charset "UTF-8"
-        body {
-            background: linear-gradient(to bottom, #ADD8E6, #FFC0CB);
-            color: blue;
-            text-align: center;
-            font-size: 12pts;
-            font-family: Arial;
-        }
-        h1{
-            font-size: 30px;
-            color: black;
-            font-family: Times New Roman;
-        }
-        h2{
-           font-size: 30px;
-            color: black;
-            font-family: Times New Roman;
+@charset "UTF-8";
 
-        a{
-           color: blue;
-            text-decoration: none;
-        }
+body {
+    background: linear-gradient(to bottom, #ADD8E6, #FFC0CB);
+    color: blue;
+    text-align: center;
+    font-size: 12pt; /* La unidad correcta es "pt", no "pts" */
+    font-family: Arial;
+}
+
+h1 {
+    font-size: 30px;
+    color: black;
+    font-family: "Times New Roman";
+}
+
+h2 {
+    font-size: 30px;
+    color: black;
+    font-family: "Times New Roman";
+}
+
+a {
+    color: blue;
+    text-decoration: none;
