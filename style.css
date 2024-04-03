@@ -1,8 +1,17 @@
 @charset "UTF-8"
-body
-{
-  background-color: #FFFAFA;
-  color: black;
-  font-size: 12pts;
-  font-family: Arial;
-}
+        body {
+            background: linear-gradient(to bottom, #ADD8E6, #FFC0CB);
+            text-align: center;
+            color: black;
+            font-size: 12pts;
+            font-family: Arial;
+        }
+        h1, h2 {
+            font-size: 30px;
+            color: black;
+            font-family: Arial, sans-serif;
+        }
+        a {
+            color: blue;
+            text-decoration: none;
+        }}
